@@ -1,2 +1,2 @@
 # dsa-patterns
-list of dsa pattersn such as slideing window, kth smallest or largest ...
+list of dsa pattersn such as sliding window, kth smallest or largest elements
